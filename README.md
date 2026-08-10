@@ -1,15 +1,4 @@
-<h1 align="center">Olá, eu sou o Victor 👋</h1>
-
-<p align="center">
-  Estudante de Ciência da Computação na PUC-SP, focado em Machine Learning, LLMs, engenharia de dados e Cloud Computing.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/victor-augusto-toledo-lúcio-borghi-3470803b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://img.shields.io/badge/São_Paulo-Brasil-informational?style=flat" alt="Localização"/>
-</p>
+<p align="center"> <b>Victor Augusto Borghi</b> · Estudante de Ciência da Computação na PUC-SP<br/> Focado em Machine Learning, LLMs, engenharia de dados e Cloud Computing. </p> <p align="center"> <a href="https://www.linkedin.com/in/victor-augusto-toledo-lúcio-borghi-3470803b7/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <img src="https://img.shields.io/badge/São_Paulo-Brasil-informational?style=flat" alt="Localização"/> </p>
 
 ---
 
