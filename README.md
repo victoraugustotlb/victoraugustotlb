@@ -33,6 +33,6 @@ I'm studying Computer Science at PUC-SP, with a growing focus on Machine Learnin
 ---
 
 <p align="center">
-  <img src="github-readme-stats-neon-omega-86.vercel.app" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats-neon-omega-86.vercel.app/api?username=victoraugustotlb&show_icons=true&theme=default&hide_title=true&count_private=true" alt="GitHub Stats" height="150"/>
   <img src="https://streak-stats.demolab.com/?user=victoraugustotlb&theme=default" alt="GitHub Streak" height="150"/>
 </p>
