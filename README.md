@@ -28,7 +28,7 @@ I'm studying Computer Science at PUC-SP, with a growing focus on Machine Learnin
 
 - **[Libriverse](https://github.com/victoraugustotlb/Libriverse)** — virtual library platform with a custom API for tracking reading progress and discovering books, letting users build and organize their own library
 - **[Reserva-Hotel-LIC](https://github.com/victoraugustotlb/Reserva-Hotel-LIC)** — hotel management system in C++ with check-in/check-out flow, occupancy visualization, and guest tracking
-- **[ScanBox](https://github.com/Arakraques/ArakraquesHackaton)** — mobile app (Swift) for delivery tracking, letting couriers scan packages and log photo, GPS coordinates, and timestamp on completion; built offline-first so it works without signal and syncs automatically once reconnected. 2nd place at InovaAI Hackathon
+- **[ScanBox](https://github.com/victoraugustotlb/ScanBox.git)** — mobile app (Swift) for delivery tracking, letting couriers scan packages and log photo, GPS coordinates, and timestamp on completion; built offline-first so it works without signal and syncs automatically once reconnected. 2nd place at InovaAI Hackathon
 
 ---
 
