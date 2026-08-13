@@ -14,6 +14,8 @@
 
 I'm studying Computer Science at PUC-SP, with a growing focus on Machine Learning, LLMs, and data engineering. Currently deepening my knowledge in Python, LLMs, and AWS.
 
+Current Learning: Python and Cloud Computing
+
 ### Stack
 
 <p>
